@@ -75,7 +75,7 @@ print("median along row ",np.median(array10, axis=1))
 print("variance along row ",np.var(array10, axis=1))
 print("variance along column",np.var(array10, axis=0))
 ```
-### 10
+### Q10
 ``` python
 arr11= np.random.randint(1,11,9).reshape(3,3)
 print(arr11)
